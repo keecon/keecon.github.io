@@ -5,7 +5,7 @@ date:   2019-03-19 00:00:00
 author: hwlee
 categories: Dev
 tags:	jekyll
-cover:  "/assets/instacode.png"
+cover:  "/assets/logo_keecon_orange.png"
 ---
 
 유니티로 개발할 때 어렵게 해결했던 문제들에 대해서 문제점과 해결책을 정리합니다.
