@@ -9,3 +9,5 @@ cover:  "/assets/logo_keecon_orange.png"
 ---
 
 유니티로 개발할 때 어렵게 해결했던 문제들에 대해서 문제점과 해결책을 정리합니다.
+
+## READ_PHONE_STATE(전화걸기및관리) 권한 자동 추가 문제
