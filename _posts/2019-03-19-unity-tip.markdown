@@ -4,7 +4,7 @@ title:  "유니티 개발시 알아두면 쓸모있는 팁"
 date:   2019-03-19 00:00:00
 author: hwlee
 categories: Dev
-tags:	jekyll
+tags:	유니티
 cover:  "/assets/logo_keecon_orange.png"
 ---
 
