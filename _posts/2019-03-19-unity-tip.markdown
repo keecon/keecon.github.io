@@ -26,7 +26,7 @@ AndroidManifest.xml 내에 최소/타겟 버전을 명시하면 해당 권한은
 
 유니티 2018에서는 gradle 빌드를 사용하면서 이전 버전과 동일하게 apk파일로 빌드하는 방식이 새로 추가되었습니다.
 
-# MultiDex를 사용하여 프로젝트 빌드
+### MultiDex를 사용하여 프로젝트 빌드
 Custom Gradle template 체크하면 설정파일이 생성됩니다.
 ![Alt text](/assets/unity_android_gradle.png)
 
