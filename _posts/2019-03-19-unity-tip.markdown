@@ -111,5 +111,5 @@ AndroidManifest.xml에 다음의 내용을 추가합니다.
 
 빌드 실행
 
-참고자료
+## 참고자료
 [http://today7e.blogspot.com/2018/06/android.html]
