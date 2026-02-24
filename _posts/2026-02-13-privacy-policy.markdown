@@ -6,6 +6,7 @@ author: hwlee
 categories: Service
 tags:	keecon
 cover:  "/assets/logo_keecon_orange.png"
+disqus_disabled: true
 ---
 
 # 개인정보처리방침
